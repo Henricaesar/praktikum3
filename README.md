@@ -4,6 +4,9 @@ Baris 3 : mendeklarasikan variable luas dimana nilai variable tersebut didapat d
 Baris 4 : menampilkan nilai dari variable luas.
 Baris 5 : perhitungan keliling dimana dua dikali dengan nilai variable phi dikali nilai variable r dan hasilnya akan dimasukkan kedalam variable k.
 Baris 6 : menampilkan nilai dari variable k.
+
+
+
 ![gambar1.png](Screenshot/1.png)
 ![gambar2.png](Screenshot/2.png)
 Screenshot Latihan 1,2,dan 3
